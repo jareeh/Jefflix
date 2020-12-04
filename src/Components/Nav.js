@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './Nav.css';
-import logo from '../Jefflix.png'
+import logo from '../Jefflix.png';
 
 function Nav() {
 	const [show, setShow] = useState();
